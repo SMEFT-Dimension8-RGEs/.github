@@ -20,4 +20,4 @@ If you use the notebooks above, please cite these articles:
 
 1. [arXiv:2106.05291](https://arxiv.org/pdf/2106.05291.pdf)
 
-2. [arXiv:2112.12724](https://arxiv.org/pdf/2112.12724.pdf)
+2. [arXiv:2205.xxxxx](https://arxiv.org/pdf/2205.xxxxx.pdf)
