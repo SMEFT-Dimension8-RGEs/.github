@@ -2,23 +2,21 @@
 
 This webpage contains the following information:
 
-1. [Repository/Folder_name]: The one-loop renormalisation group running of the Dimension-8 bosonic Standard
-Model effective operators by pairs of the leading dimension-six interactions at 1-loop.  [We put more description details as we upload the files.] This files are supplementary to the article: (https://arxiv.org/pdf/2106.05291.pdf).
+1. [Notebooks/RGEs-bosonic-dim6squared]: The one-loop renormalisation group running of the bosonic SMEFT operators of dimension d<=8 by pairs of (leading) dimension-six interactions. This file is supplementary to the article: (https://arxiv.org/pdf/2106.05291.pdf).
 
-2. [Repository/Folder_name]: Green basis operators, redundancies, etc. This files are supplementary to the article: (https://arxiv.org/pdf/2112.12724.pdf).
-
-3. [Repository/Folder_name]: The renormalisation group running of the Dimension-8 bosonic Standard Model effective operators at 1-loop. We focus on contributions driven by one dimension-eight term and SM couplings.
+2. [Notebook/RGEs-bosonic-dim8]: The one-loop renormalisation group running of the bosonic SMEFT operators of dimension d<=8 by (leading) dimension-eight interactions. This file is supplementary to the article: (https://arxiv.org/pdf/2205.xxxxx.pdf).
 
 ## Authors
-* Alvaro Diaz Carmona
-* Jose Santiago
+* Supratim Das Bakshi
+* Álvaro Díaz-Carmona
+* Mikael Chala
 * Guilherme Guedes
 * Maria Ramos
-* Mikael Chala
+* José Santiago
 
 ## Citation
 
-If you use the expressions, please cite these articles:
+If you use the notebooks above, please cite these articles:
 
 1. [arXiv:2106.05291](https://arxiv.org/pdf/2106.05291.pdf)
 
