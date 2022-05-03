@@ -1,6 +1,6 @@
 # SMEFT Dimension-8 RGEs
 
-This repository contains the following information:
+This webpage contains the following information:
 
 1. [Repository/Folder_name]: The one-loop renormalisation group running of the Dimension-8 bosonic Standard
 Model effective operators by pairs of the leading dimension-six interactions at 1-loop.  [We put more description details as we upload the files.] This files are supplementary to the article: (https://arxiv.org/pdf/2106.05291.pdf).
