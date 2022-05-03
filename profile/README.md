@@ -8,7 +8,7 @@ This webpage contains the following information:
 
 ## Authors
 * Supratim Das Bakshi
-* Álvaro Díaz-Carmona
+* Álvaro Díaz Carmona
 * Mikael Chala
 * Guilherme Guedes
 * Maria Ramos
