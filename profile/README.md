@@ -8,13 +8,17 @@ This webpage contains the following information:
 
 3. [Notebooks/RGE-bosonic-dim5-dim7.nb]:  The RG running of the bosonic operators of the SMEFT by the Lepton Number Violating operators at 1-loop order up to O(\Lambda^-4), with \Lambda as the SMEFT cut-off.: https://arxiv.org/pdf/2301.07151.pdf.
 
+4. [Notebooks/RGEs-two-fermionic-dim6squared.nb]:  The one-loop renormalisation group running of the two-fermionic SMEFT operators of dimension d<=8 by pairs of (leading) dimension-six interactions.
+
 ## Authors
 * Supratim Das Bakshi
 * Mikael Chala
 * Álvaro Díaz Carmona
 * Guilherme Guedes
 * Maria Ramos
+* Zhe Ren
 * José Santiago
+* Fuensanta Vilches
 
 ## Citation
 
