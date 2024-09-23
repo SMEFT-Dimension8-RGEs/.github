@@ -8,7 +8,7 @@ This webpage contains the following information:
 
 3. [Notebooks/RGE-bosonic-dim5-dim7.nb]:  The RG running of the bosonic operators of the SMEFT by the Lepton Number Violating operators at 1-loop order up to O(\Lambda^-4), with \Lambda as the SMEFT cut-off.: https://arxiv.org/pdf/2301.07151.pdf.
 
-4. [Notebooks/RGEs-two-fermionic-dim6squared.nb]:  The one-loop renormalisation group running of the two-fermionic SMEFT operators of dimension d<=8 by pairs of (leading) dimension-six interactions.
+4. [Notebooks/RGEs-two-fermionic-dim6squared.nb]:  The one-loop renormalisation group running of the two-fermionic SMEFT operators of dimension d<=8 by pairs of (leading) dimension-six interactions. The Green's basis in FeynRules format is available here: Notebooks/basis_2fermions.fr . The divergencies and the redundancies are available in Notebooks/divergencies-two-fermionic-dim6squared.nb and Notebooks/redundancies-two-fermionic-dim6squared.nb respectively. 
 
 ## Authors
 * Supratim Das Bakshi
