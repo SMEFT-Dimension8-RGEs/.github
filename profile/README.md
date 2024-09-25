@@ -30,4 +30,4 @@ If you use the notebooks above, please cite these articles:
 
 3. [arxiv:2301.07151](https://arxiv.org/pdf/2301.07151.pdf)
 
-4. [arxiv:2409.xxxxx](https://arxiv.org/pdf/2409.15408.pdf)
+4. [arxiv:2409.15408](https://arxiv.org/pdf/2409.15408.pdf)
