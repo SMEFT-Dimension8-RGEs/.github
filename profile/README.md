@@ -10,6 +10,8 @@ This webpage contains the following information:
 
 4. [Notebooks/RGEs-two-fermionic-dim6squared.nb]:  The one-loop renormalisation group running of the two-fermionic SMEFT operators of dimension d<=8 by pairs of (leading) dimension-six interactions. The Green's basis in FeynRules format is available here: Notebooks/basis_2fermions.fr . The divergencies and the redundancies are available in Notebooks/divergencies-two-fermionic-dim6squared.nb and Notebooks/redundancies-two-fermionic-dim6squared.nb respectively. Arxiv pre-print: https://arxiv.org/pdf/2409.15408.pdf.
 
+5. [Notebooks/RGEs-two-fermionic-dim8linear.nb]: The one-loop renormalisation group running of the two-fermionic SMEFT operators of dimension d=8 by (leading) dimension-eight interactions. The Green's basis in FeynRules format is available here: Notebooks/basis_2fermions.fr . The divergencies and the redundancies are available in Notebooks/divergencies-two-fermionic-dim8linear.nb and Notebooks/redundancies-two-fermionic-dim8linear.nb respectively. Arxiv pre-print: TBA.
+
 ## Authors
 * Supratim Das Bakshi
 * Mikael Chala
